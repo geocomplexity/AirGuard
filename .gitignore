@@ -1,0 +1,16 @@
+# Raw data (EPA AQS, Open-Meteo) — not redistributed; see README for sources
+data/
+
+# Generated outputs (CSV, figures, cached GeoJSON)
+outputs/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
